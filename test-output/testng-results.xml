@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-07T07:14:15 IST" name="Default suite" finished-at="2024-12-07T07:15:41 IST" duration-ms="86122">
+  <suite started-at="2024-12-10T21:23:58 IST" name="Default suite" finished-at="2024-12-10T21:24:21 IST" duration-ms="22683">
     <groups>
     </groups>
-    <test started-at="2024-12-07T07:14:15 IST" name="Default test" finished-at="2024-12-07T07:15:41 IST" duration-ms="86122">
-      <class name="testslayer.HelpPageLoadTest">
-        <test-method is-config="true" signature="initialization()[pri:0, instance:testslayer.HelpPageLoadTest@3e694b3f]" started-at="2024-12-07T07:14:15 IST" name="initialization" finished-at="2024-12-07T07:15:06 IST" duration-ms="51432" status="PASS">
+    <test started-at="2024-12-10T21:23:58 IST" name="Default test" finished-at="2024-12-10T21:24:21 IST" duration-ms="22683">
+      <class name="testslayer.LoginTest">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:testslayer.LoginTest@41d477ed]" started-at="2024-12-10T21:23:58 IST" name="initialization" finished-at="2024-12-10T21:24:14 IST" duration-ms="15367" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialization -->
-        <test-method signature="HelpPageLoad()[pri:0, instance:testslayer.HelpPageLoadTest@3e694b3f]" started-at="2024-12-07T07:15:06 IST" name="HelpPageLoad" finished-at="2024-12-07T07:15:41 IST" duration-ms="34198" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:testslayer.LoginTest@41d477ed]" started-at="2024-12-10T21:24:14 IST" name="loginTest" finished-at="2024-12-10T21:24:19 IST" duration-ms="5303" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- HelpPageLoad -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:testslayer.HelpPageLoadTest@3e694b3f]" started-at="2024-12-07T07:15:41 IST" name="quitDriver" finished-at="2024-12-07T07:15:41 IST" duration-ms="420" status="PASS">
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:testslayer.LoginTest@41d477ed]" started-at="2024-12-10T21:24:19 IST" name="quitDriver" finished-at="2024-12-10T21:24:21 IST" duration-ms="1956" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
-      </class> <!-- testslayer.HelpPageLoadTest -->
+      </class> <!-- testslayer.LoginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
